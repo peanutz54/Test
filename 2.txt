@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 moi et toi et personne
+=======
+moi et toi et lui
+>>>>>>> b5f58469505bea9ef636b5874148e0e7996e994a
